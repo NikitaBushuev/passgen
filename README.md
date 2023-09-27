@@ -22,13 +22,13 @@ passgen [-s <charset>] [-n <count>] [<len>]
 Clone this repository to your local machine.
 
 ```bash
-git clone https://github.com/nikitabushuev/password-generator.git
+git clone https://github.com/nikitabushuev/passgen.git
 ```
 
 Build the project using CMake.
 
 ```bash
-cd password-generator
+cd passgen
 mkdir build
 cd build
 cmake ..
